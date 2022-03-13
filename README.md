@@ -2,59 +2,20 @@
 
 
 
-### FloodBot Data Samples
-
 <a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/sampleCapture.PNG" align="center" width="420" ></a>
-
+##### FloodBot Data Samples
 
 ## Abstract
 Flash flood is one of the most commonly occurring natural disasters. However, communities are often ill-prepared for its pre-disaster precautions and post-disaster aftermath. We argue thatthe technical and economic resources are significant constraints in identifying, assessing, and reducing disaster risks. While other mature flood protection mechanisms exist, they are often expensive and site-specific. Expensive flood detection and control mechanisms are often limited to affluent communities, increasing the risk of flood damage to less affluent areas. Our research develops economically viable, scalable, and mobile Flashflood detection systems that are crucial in reducing disaster risks. We explore various state-of-the-art machine learning models, Internet of things (IoTs), crowd-sourcing, participatory sensing, and cloud infrastructure to deliver social media-based flash flood detection systems called FloodBot. The FloodBot is a scalable, mobile, and end-to-end mass-deployable alternative flashflood detection system based on vision, sound, and hearing. The Floodbot's vision is enabled by computer vision (CV) techniques, its auditory capabilities are enabled by acoustic scene classification (ASC) techniques, and conversational AI enables its speech. We train FloodBot to perform image recognition, detection, and segmentation using various convolutional neural networks (CNN) and then deploy transfer learning techniques to improve accuracy. Specifically, our thesis and FloodBot design exploit the power of deep learning models such as a convolutional neural network (CNN), single-shot multi-box object detection (SSD), segmentation model for vision-based tasks. 
 
 We use Mel-Spectrogram-based auditory signal analysis and deep learning models to classify environmental sounds pertinent to flood events. We deploy memory-based end-to-end pre-trained language models such as Bidirectional Encoder Representations from Transformers (BERT)  to enable conversational power and seamless integration of FloodBot into social media. We then assesses the relevancy of the multimodal information (image + sound + social media) and pieces them together to deliver artificial intelligence (AI) needed to reduce damages and prepare the community during natural disasters. All in all, FloodBot integrates multimodal raw data and extracts valuable information required to detect floods.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-cv2
-numpy
-pandas
-platform
-requests
-json
-time
-librosa
-```
-
-### Installing
-
-Import all the Packages (Sugessted in GoogleColab)
-
-```
-import librosa
-import matplotlib.pyplot as plt
-import IPython.display as ipd
-import librosa
-from pydub import AudioSegment
-```
-
-
-End with an example of getting some data out of the system or using it for a little demo
-
-#### General Approach
+### General Research Directions
 <a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/summary_fig.PNG" align="center" height="300" width="550" ></a>
 ```
-Some ideas that we experimented with the dataset.
+Some ideas that we experimented with the dataset. The video contents can be used to extract 
 
 ```
-
-### Our History
-Add additional notes about how to deploy this on a live system
-
-#### FloodBot in Need
-<a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/fog_1029.png" align="center" height="200" ></a>
-
 ### Publications:
 List of Papers published using this DataSet
 
@@ -88,6 +49,46 @@ Flood Tweet, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper un
 - Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Sentiment of Crowd for Improving the Emergency Response Services, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
 
 - Bipendra Basnyat, Amrita Anam, Neha Singh, Aryya Gangopadhyay, and Nirmalya Roy. Analyzing Social Media Texts and Images to Assess the Impact of Flash Floods in Cities, in Proceedings of the 2nd IEEE International Workshop on Smart Service Systems (SmartSys), co-located with SmartComp, pp. 1-6, May 2017
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+cv2
+numpy
+pandas
+platform
+requests
+json
+time
+librosa
+```
+
+### Installing
+
+Import all the Packages (Sugessted in GoogleColab)
+
+```
+import librosa
+import matplotlib.pyplot as plt
+import IPython.display as ipd
+import librosa
+from pydub import AudioSegment
+```
+
+
+End with an example of getting some data out of the system or using it for a little demo
+
+
+
+### Our History
+Add additional notes about how to deploy this on a live system
+
+#### FloodBot in Need
+<a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/fog_1029.png" align="center" height="200" ></a>
+
+
 
 #### Acknowledgments
 
