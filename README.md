@@ -64,15 +64,25 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Publications
+
+Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Environmental Sound Classification for Flood Event Detection, on The 18th International Conference on Intelligent Environments (IE2022), Kassel, June 2022 (\textit{Accepted Papers}).
+
+Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper under review}).
+
+ Neha Singh, textbf{Bipendra Basnyat}, Nirmalya Roy, Aryya Gangopadhyay.Evaluation of Various Text Classification Models for Identifying Relevant
+Flood Tweet, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper under review}).
+
+Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Flood detection using semantic segmentation and multimodal data fusion, on PerAwareCity, Kassel, Germany, March 2021.
+
+Bipendra Basnyat, Neha Singh, Nirmalya Roy, Aryya Gangopadhyay, Vision Powered Conversational AI for Easy Human Dialogue Systems, IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), IITR, NCR, India 2020.
+
+Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, in Proceedings of the 6th IEEE International Conference on Smart Computing (SmartComp), Bologna, Italy, September 2020.
 
 Neha Singh, Nirmalya Roy, and Aryya Gangopadhyay, Localized Flood Detection With Minimal Labeled Social Media Data Using Transfer Learning, AI for Social Good - AAAI Fall Symposium 2019, Association for the Advancement of Artificial Intelligence, Arlington, Virginia, USA, November 7 – 9, 2019.
 
