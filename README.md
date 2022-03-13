@@ -42,7 +42,7 @@ from pydub import AudioSegment
 End with an example of getting some data out of the system or using it for a little demo
 
 ## General Approach
-![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main/misc/summary_fig.PNG =250x250)
+<a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/summary_fig.PNG" align="left" height="150" width="150" ></a>
 
 Explain how to run the automated tests for this system
 
