@@ -51,18 +51,9 @@ Some ideas that we experimented with the dataset.
 Add additional notes about how to deploy this on a live system
 
 #### FloodBot in Need
-<a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/fog_1029.png" align="center" height="400" ></a>
-## Authors
+<a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/fog_1029.png" align="center" height="200" ></a>
 
-* **Bipendra Basnyat** - *More Collaberator & Information at* - https://mpsc.umbc.edu/projects/flash-flood-monitoring
-
-See also the list of [contributors]****
-
-## Contributing
-
-Please reach out to Author and DataCurator  * **Bipendra Basnyat**  or others in our Lab @ *More Collaberator & Information at* -- https://mpsc.umbc.edu/team
-
-## Punlications:
+### Publications:
 List of Papers published using this DataSet
 
 - PhD Thesis (*To be published after Dissertation*) 
@@ -94,17 +85,23 @@ Flood Tweet, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper un
 
 - Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Sentiment of Crowd for Improving the Emergency Response Services, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
 
--ipendra Basnyat, Amrita Anam, Neha Singh, Aryya Gangopadhyay, and Nirmalya Roy. Analyzing Social Media Texts and Images to Assess the Impact of Flash Floods in Cities, in Proceedings of the 2nd IEEE International Workshop on Smart Service Systems (SmartSys), co-located with SmartComp, pp. 1-6, May 2017
+- Bipendra Basnyat, Amrita Anam, Neha Singh, Aryya Gangopadhyay, and Nirmalya Roy. Analyzing Social Media Texts and Images to Assess the Impact of Flash Floods in Cities, in Proceedings of the 2nd IEEE International Workshop on Smart Service Systems (SmartSys), co-located with SmartComp, pp. 1-6, May 2017
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
+#### Acknowledgments
 
 * This research is partially supported by the National Science Foundation under Award Numbers: 1640625 &  by U.S. Army Grant No. W911NF2120076
 * Howard County Public Works  
 * Evigia Systems LLC
 * Progeny Systems Corporation
 * MachineSense, LLC
+* **Bipendra Basnyat** - *More Collaberator & Information at* - https://mpsc.umbc.edu/projects/flash-flood-monitoring
 
+See also the list of [contributors]****
+
+#### Contributing
+
+Please reach out to Author and DataCurator  * **Bipendra Basnyat**  or others in our Lab @ *More Collaberator & Information at* -- https://mpsc.umbc.edu/team
+
+#### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
