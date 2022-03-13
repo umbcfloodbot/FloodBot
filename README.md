@@ -3,7 +3,7 @@
 FloodBot:Vision and AI Enabled Flood Detection Systems in Urban Environment
 
 ## FloodBot Data Samples
-![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main1/misc/sampleCapture.PNG)
+![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main/misc/sampleCapture.PNG)
 
 ## Abstract
 Flash flood is one of the most commonly occurring natural disasters. However, communities are often ill-prepared for its pre-disaster precautions and post-disaster aftermath. We argue thatthe technical and economic resources are significant constraints in identifying, assessing, and reducing disaster risks. While other mature flood protection mechanisms exist, they are often expensive and site-specific. Expensive flood detection and control mechanisms are often limited to affluent communities, increasing the risk of flood damage to less affluent areas. Our research develops economically viable, scalable, and mobile Flashflood detection systems that are crucial in reducing disaster risks. We explore various state-of-the-art machine learning models, Internet of things (IoTs), crowd-sourcing, participatory sensing, and cloud infrastructure to deliver social media-based flash flood detection systems called FloodBot. The FloodBot is a scalable, mobile, and end-to-end mass-deployable alternative flashflood detection system based on vision, sound, and hearing. The Floodbot's vision is enabled by computer vision (CV) techniques, its auditory capabilities are enabled by acoustic scene classification (ASC) techniques, and conversational AI enables its speech. We train FloodBot to perform image recognition, detection, and segmentation using various convolutional neural networks (CNN) and then deploy transfer learning techniques to improve accuracy. Specifically, our thesis and FloodBot design exploit the power of deep learning models such as a convolutional neural network (CNN), single-shot multi-box object detection (SSD), segmentation model for vision-based tasks. 
@@ -41,7 +41,7 @@ from pydub import AudioSegment
 End with an example of getting some data out of the system or using it for a little demo
 
 ## General Approach
-![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main1/misc/summary_fig.PNG)
+![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main/misc/summary_fig.PNG)
 
 Explain how to run the automated tests for this system
 
@@ -72,7 +72,7 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Publications
+## Paragraph
 
 Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Environmental Sound Classification for Flood Event Detection, on The 18th International Conference on Intelligent Environments (IE2022), Kassel, June 2022 (\textit{Accepted Papers}).
 
