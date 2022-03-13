@@ -42,14 +42,12 @@ End with an example of getting some data out of the system or using it for a lit
 
 #### General Approach
 <a href="url"><img src="https://github.com/umbcfloodbot/FloodBot/blob/main/misc/summary_fig.PNG" align="center" height="300" width="550" ></a>
-
-Explain how to run the automated tests for this system
-
+```
+Some ideas that we experimented with the dataset.
 
 ```
 
-### Deployment
-
+### Our History
 Add additional notes about how to deploy this on a live system
 
 #### FloodBot in Need
@@ -62,40 +60,41 @@ See also the list of [contributors]****
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please reach out to Author and DataCurator  * **Bipendra Basnyat**  or others in our Lab @ *More Collaberator & Information at* -- https://mpsc.umbc.edu/team
 
-## Paragraph
+## Punlications:
+List of Papers published using this DataSet
 
-Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Environmental Sound Classification for Flood Event Detection, on The 18th International Conference on Intelligent Environments (IE2022), Kassel, June 2022 (\textit{Accepted Papers}).
+- PhD Thesis (*To be published after Dissertation*) 
 
-Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper under review}).
+- Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Environmental Sound Classification for Flood Event Detection, on The 18th International Conference on Intelligent Environments (IE2022), Kassel, June 2022 (\textit{Accepted Papers}).
 
-Neha Singh, Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Evaluation of Various Text Classification Models for Identifying Relevant
+- Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper under review}).
+
+- Neha Singh, Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay.Evaluation of Various Text Classification Models for Identifying Relevant
 Flood Tweet, Pervasive and Mobile Computing, (\textit{Submitted Journal Paper under review}).
 
-Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Flood detection using semantic segmentation and multimodal data fusion, on PerAwareCity, Kassel, Germany, March 2021.
+- Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Flood detection using semantic segmentation and multimodal data fusion, on PerAwareCity, Kassel, Germany, March 2021.
 
-Bipendra Basnyat, Neha Singh, Nirmalya Roy, Aryya Gangopadhyay, Vision Powered Conversational AI for Easy Human Dialogue Systems, IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), IITR, NCR, India 2020.
+- Bipendra Basnyat, Neha Singh, Nirmalya Roy, Aryya Gangopadhyay, Vision Powered Conversational AI for Easy Human Dialogue Systems, IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), IITR, NCR, India 2020.
 
-Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, in Proceedings of the 6th IEEE International Conference on Smart Computing (SmartComp), Bologna, Italy, September 2020.
+- Bipendra Basnyat, Nirmalya Roy, Aryya Gangopadhyay. Towards AI Conversing: FloodBot using Deep Learning Model Stacks, in Proceedings of the 6th IEEE International Conference on Smart Computing (SmartComp), Bologna, Italy, September 2020.
 
-Neha Singh, Nirmalya Roy, and Aryya Gangopadhyay, Localized Flood Detection With Minimal Labeled Social Media Data Using Transfer Learning, AI for Social Good - AAAI Fall Symposium 2019, Association for the Advancement of Artificial Intelligence, Arlington, Virginia, USA, November 7 – 9, 2019.
+- Neha Singh, Nirmalya Roy, and Aryya Gangopadhyay, Localized Flood Detection With Minimal Labeled Social Media Data Using Transfer Learning, AI for Social Good - AAAI Fall Symposium 2019, Association for the Advancement of Artificial Intelligence, Arlington, Virginia, USA, November 7 – 9, 2019.
 
-Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Emotions of Crowd for Improving the Emergency Response Services, Pervasive and Mobile Computing (PMC) Journal, Volume 58, August 2019, Elsevier 2019
+- Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Emotions of Crowd for Improving the Emergency Response Services, Pervasive and Mobile Computing (PMC) Journal, Volume 58, August 2019, Elsevier 2019
 
-Amrita Anam, Aryya Gangopadhyay and Nirmalya Roy. Event Characterization and Separation using Wavelet Signatures, in proceedings of the 5th workshop on Mining and Learning from Time Series (MiLeTS) in conjunction with 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Anchorage, Alaska, August 2019
+- Amrita Anam, Aryya Gangopadhyay and Nirmalya Roy. Event Characterization and Separation using Wavelet Signatures, in proceedings of the 5th workshop on Mining and Learning from Time Series (MiLeTS) in conjunction with 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Anchorage, Alaska, August 2019
 
-Amrita Anam, Aryya Gangopadhyay, Nirmalya Roy. Identifying the Context of Hurricane Posts on Twitter using Wavelet Features, in Proceedings of the 5th IEEE International Conference on Smart Computing (SmartComp), Washington D.C., June 2019
+- Amrita Anam, Aryya Gangopadhyay, Nirmalya Roy. Identifying the Context of Hurricane Posts on Twitter using Wavelet Features, in Proceedings of the 5th IEEE International Conference on Smart Computing (SmartComp), Washington D.C., June 2019
 
-Bipendra Basnyat, Nirmalya Roy and Aryya Gangopadhyay. A Flash Flood Categorization System using Scene-Text Recognition, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
+- Bipendra Basnyat, Nirmalya Roy and Aryya Gangopadhyay. A Flash Flood Categorization System using Scene-Text Recognition, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
 
-Amrita Anam, Aryya Gangopadhyay and Nirmalya Roy. Evaluating Disaster Time-line from Social Media using Wavelet Analysis, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
+- Amrita Anam, Aryya Gangopadhyay and Nirmalya Roy. Evaluating Disaster Time-line from Social Media using Wavelet Analysis, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
 
-Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Sentiment of Crowd for Improving the Emergency Response Services, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
+- Neha Singh, Nirmalya Roy and Aryya Gangopadhyay. Analyzing the Sentiment of Crowd for Improving the Emergency Response Services, in Proceedings of the 4th IEEE International Conference on Smart Computing (SmartComp), Sicily, Italy, June 2018
 
-Bipendra Basnyat, Amrita Anam, Neha Singh, Aryya Gangopadhyay, and Nirmalya Roy. Analyzing Social Media Texts and Images to Assess the Impact of Flash Floods in Cities, in Proceedings of the 2nd IEEE International Workshop on Smart Service Systems (SmartSys), co-located with SmartComp, pp. 1-6, May 2017
-
-
+-ipendra Basnyat, Amrita Anam, Neha Singh, Aryya Gangopadhyay, and Nirmalya Roy. Analyzing Social Media Texts and Images to Assess the Impact of Flash Floods in Cities, in Proceedings of the 2nd IEEE International Workshop on Smart Service Systems (SmartSys), co-located with SmartComp, pp. 1-6, May 2017
 
 ## License
 
