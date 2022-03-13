@@ -38,7 +38,8 @@ from pydub import AudioSegment
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## General Approach
+![alt text](https://github.com/umbcfloodbot/FloodBot/blob/main1/misc/summary_fig.PNG)
 
 Explain how to run the automated tests for this system
 
