@@ -1,13 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite it as below."
+title: >-
+  FloodBot:Vision and AI Enabled Flood Detection
+  Systems in Urban Environment
+message: >-
+  If you use this code or data, please cite it as
+  below.
+type: dataset
 authors:
-  - family-names: Basnyat
-    given-names: Bipendra
-   - family-names: Zia
+  - given-names: Bipendra
+    family-names: Basnyat
+    email: bipbasnyat@gmail.com
+    orcid: 'https://orcid.org/0000-0002-0398-6894'
+    affiliation: UMBC
+  - family-names: Zia
     given-names: Arooj
-   - family-names: Rahman
-    given-names: Ahamdur
-    orcid: https://orcid.org/0000-0002-0398-6894
-title: "FloodBot:Vision and AI Enabled Flood Detection Systems in Urban Environment"
-version: 1.0.0
-date-released: 2022-03-14
+  - given-names: Ahamdur
+    family-names: Rahman
+    affiliation: UMBC
